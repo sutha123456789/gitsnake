@@ -40,6 +40,8 @@ void Game::UpdateModel()
 {
 }
 
+//displaymointer
 void Game::ComposeFrame()
 {
+
 }
